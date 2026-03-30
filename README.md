@@ -1,4 +1,4 @@
-# 🛍️ Customer Behavior Data Analysis
+# 🛍️ Retail Customer Behavior Data Analysis
 
 ## 📌 Project Overview
 
@@ -70,13 +70,6 @@ The Power BI dashboard provides:
 * Customer segmentation insights
 * Product performance
 * Discount & subscription analysis
-
-### 📷 Dashboard Preview
-
-![Dashboard](<img width="1169" height="644" alt="customer_behavior_dashboard" src="https://github.com/user-attachments/assets/b4d03816-a0a5-4b1f-a2df-56e6d3253f18" />
-)
-
-
 
 ---
 
