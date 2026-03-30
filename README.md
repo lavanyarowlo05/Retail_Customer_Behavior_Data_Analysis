@@ -73,7 +73,8 @@ The Power BI dashboard provides:
 
 ### 📷 Dashboard Preview
 
-![Dashboard](customer_behavior_dashboard.png)
+![Dashboard](<img width="1169" height="644" alt="customer_behavior_dashboard" src="https://github.com/user-attachments/assets/b4d03816-a0a5-4b1f-a2df-56e6d3253f18" />
+)
 
 
 
